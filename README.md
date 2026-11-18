@@ -4,7 +4,7 @@ A full-stack Computer Networks project demonstrating **HTTP caching, TCP transpo
 
 ---
 
-## 🌟 Tech Stack
+##  Tech Stack
 
 | Layer | Technologies |
 |---|---|
@@ -16,7 +16,7 @@ A full-stack Computer Networks project demonstrating **HTTP caching, TCP transpo
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 ### 1. Interactive Map & Navigation
 - Real-time map rendering using Leaflet and OpenStreetMap tiles.
@@ -52,7 +52,7 @@ A full-stack Computer Networks project demonstrating **HTTP caching, TCP transpo
 
 ---
 
-## 🌐 Computer Networks Concepts Demonstrated
+##  Computer Networks Concepts Demonstrated
 
 ### 1. HTTP Caching & Conditional GET (RFC 7232)
 - **ETag Generation:** Server computes MD5 entity tags for regions, routes, and search results.
@@ -73,7 +73,7 @@ A full-stack Computer Networks project demonstrating **HTTP caching, TCP transpo
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 offlineroute/
@@ -113,7 +113,7 @@ offlineroute/
 
 ---
 
-## 🛠️ Setup & Running
+##  Setup & Running
 
 ### Prerequisites
 - Python 3.9+
@@ -147,7 +147,7 @@ npm run dev
 
 ---
 
-## 🧪 Testing Verification
+##  Testing Verification
 
 Both frontend and backend include automated test suites:
 
@@ -167,7 +167,7 @@ node test_offline_router.js
 
 ---
 
-## ✅ Completion Checklist
+##  Completion Checklist
 
 - [x] **Interactive map with GPS location and destination search**
 - [x] **Download geographical regions with actual road-network data (nodes, edges, speeds)**
